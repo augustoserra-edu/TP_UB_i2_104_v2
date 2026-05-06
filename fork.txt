@@ -1,4 +1,4 @@
-Augusto Serra 20:08
+Augusto Serra 20:08 6/5
 Vínculo: dirección IPv6 local. . . : fe80::1c71:e1c5:903c:917a%4
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
